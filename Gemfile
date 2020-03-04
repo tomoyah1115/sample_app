@@ -8,7 +8,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails',        '5.1.6'
-gem 'puma',         '3.9.1'
+gem 'puma',         '3.12.4'
 gem 'sass-rails',   '5.0.6'
 gem 'bootstrap-sass', '3.3.7'
 gem 'uglifier',     '3.2.0'
